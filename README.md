@@ -8,4 +8,5 @@
 * Время поездки должно находиться в пределах от 1 до 8 часов
 * Пользователь должен быть авторизован
 * Отбор доступных автомобилей происходит по полю WORK_POSITION:
-![image](https://user-images.githubusercontent.com/98646246/189087935-743f50ff-659c-485f-b8bd-7cf3eb202615.png)
+![image](https://user-images.githubusercontent.com/98646246/189088538-d85e0b3f-042d-4830-aff9-57f00eded5d5.png)
+
