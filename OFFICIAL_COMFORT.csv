@@ -1,0 +1,11 @@
+IE_XML_ID;IE_NAME;IE_ID;IE_ACTIVE;IE_ACTIVE_FROM;IE_ACTIVE_TO;IE_PREVIEW_PICTURE;IE_PREVIEW_TEXT;IE_PREVIEW_TEXT_TYPE;IE_DETAIL_PICTURE;IE_DETAIL_TEXT;IE_DETAIL_TEXT_TYPE;IE_CODE;IE_SORT;IE_TAGS;IP_PROP6;IC_GROUP0;IC_GROUP1;IC_GROUP2
+1;Первый;1;Y;;;;;text;;;text;;500;;Стажер;;;
+1;Первый;1;Y;;;;;text;;;text;;500;;Секретарь;;;
+1;Первый;1;Y;;;;;text;;;text;;500;;Менеджер;;;
+1;Первый;1;Y;;;;;text;;;text;;500;;Директор;;;
+2;Второй;2;Y;;;;;text;;;text;;500;;Секретарь;;;
+2;Второй;2;Y;;;;;text;;;text;;500;;Менеджер;;;
+2;Второй;2;Y;;;;;text;;;text;;500;;Директор;;;
+3;Третий;3;Y;;;;;text;;;text;;500;;Менеджер;;;
+3;Третий;3;Y;;;;;text;;;text;;500;;Директор;;;
+4;Четвертый;4;Y;;;;;text;;;text;;500;;Директор;;;
